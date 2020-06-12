@@ -1,0 +1,15 @@
+HOST_NAME=localhost
+PROTOCOL=http
+IS_DEPLOYMENT=false
+
+JWT_SECRET=
+JWT_RF_SECRET=
+JWT_EXP_SEC=
+PORT=3000
+
+DB_TYPE=mongodb
+DB_HOST=@nosama-shard-00-00-dstgw.gcp.mongodb.net:27017,nosama-shard-00-01-dstgw.gcp.mongodb.net:27017,nosama-shard-00-02-dstgw.gcp.mongodb.net:27017
+DB_NAME=example
+DB_USER=biennui198mu
+DB_PASSWORD=mu0309198
+
